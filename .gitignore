@@ -53,3 +53,8 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 .fake
+
+# ide
+.idea
+.vscode
+.github
