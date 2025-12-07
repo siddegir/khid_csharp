@@ -17,7 +17,7 @@ This rewrite of the original Python project leverages **HtmlAgilityPack** and as
 Clone the repository and build the project:
 
 ```bash
-git clone https://github.com/siddegir/khinsider_scraper_csharp.git
+git clone https://github.com/siddegir/khid_csharp.git
 cd khinsider_scraper_csharp
 dotnet build
 ```
